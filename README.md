@@ -1,4 +1,3 @@
-# git-demo
-This is a git repo.
-<br>
-Git is a version control system.
+# This is heading 1 in md
+# This is heading 2 in md
+# This is heading 3 in md
